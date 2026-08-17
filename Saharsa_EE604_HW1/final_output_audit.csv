@@ -1,0 +1,31 @@
+Output,Status,Size (KB),Path
+Processed grayscale image,FOUND,158.79,/content/drive/MyDrive/Saharsa_EE604_HW1/processed_grayscale_image.png
+Q1 bit-plane figure,FOUND,7480.71,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/all_eight_bit_planes.png
+Q1 reconstruction figure,FOUND,4091.98,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/all_progressive_reconstructions.png
+Q1 final reconstruction verification,FOUND,1281.91,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/final_reconstruction_verification.png
+Q1 quality metrics,FOUND,0.45,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/reconstruction_quality_metrics.csv
+Q1 video parameters,FOUND,0.22,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/video_parameters.csv
+Q1 reconstruction video,FOUND,1004.84,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Video/progressive_bit_plane_reconstruction.mp4
+Q2 degraded-image figure,FOUND,6216.73,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/all_degraded_images.png
+Q2 initial restoration comparison,FOUND,11081.94,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/original_noisy_initial_restored.png
+Q2 final restoration comparison,FOUND,10768.24,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/original_noisy_optimized_restored.png
+Q2 final PSNR/SSIM results,FOUND,0.84,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/Results/final_psnr_ssim_results.csv
+Q2 selected filter parameters,FOUND,0.43,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/Results/selected_filter_parameters.csv
+Q2 PSNR plot,FOUND,109.87,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/Plots/psnr_comparison.png
+Q2 SSIM plot,FOUND,110.59,/content/drive/MyDrive/Saharsa_EE604_HW1/Q2_Image_Restoration/Plots/ssim_comparison.png
+Q1 reconstruction stage 1,FOUND,14.37,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_1.png
+Q1 reconstruction stage 2,FOUND,26.11,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_2.png
+Q1 reconstruction stage 3,FOUND,41.57,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_3.png
+Q1 reconstruction stage 4,FOUND,57.48,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_4.png
+Q1 reconstruction stage 5,FOUND,77.2,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_5.png
+Q1 reconstruction stage 6,FOUND,101.48,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_6.png
+Q1 reconstruction stage 7,FOUND,129.46,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_7.png
+Q1 reconstruction stage 8,FOUND,158.79,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Reconstruction_Stages/reconstruction_stage_8.png
+Q1 bit plane 8,FOUND,15.86,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_8.png
+Q1 bit plane 7,FOUND,24.1,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_7.png
+Q1 bit plane 6,FOUND,34.31,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_6.png
+Q1 bit plane 5,FOUND,40.27,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_5.png
+Q1 bit plane 4,FOUND,44.53,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_4.png
+Q1 bit plane 3,FOUND,48.0,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_3.png
+Q1 bit plane 2,FOUND,51.8,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_2.png
+Q1 bit plane 1,FOUND,55.48,/content/drive/MyDrive/Saharsa_EE604_HW1/Q1_Bit_Plane_Reconstruction/Bit_Planes/bit_plane_1.png
