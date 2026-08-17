@@ -1,0 +1,5 @@
+Noise Model,Selected Filter,Selected Parameters,Optimized PSNR (dB),Optimized SSIM
+Gaussian,Gaussian Filter,"Kernel=5 x 5, sigma=1.0",26.59812762108846,0.7276798636513525
+Salt-and-Pepper,Median Filter,Kernel=3 x 3,27.892740210326874,0.8374708781078356
+Speckle,Bilateral Filter,"d=7, sigmaColor=50, sigmaSpace=50",24.88567779197136,0.5892129942810688
+Poisson,Gaussian Filter,"Kernel=7 x 7, sigma=1.5",24.736158936058388,0.6468113099540953
